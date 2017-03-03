@@ -1,0 +1,13 @@
+{
+    "name": "sdkbox",
+    "version": "0.0.1",
+    "beta": true,
+    "description": "SDKBox GUI For Creator",
+    "author": "sdkbox.com",
+    "main": "main.js",
+    "main-menu": {
+        "SDKBox/Launch": {
+            "message": "sdkbox:launch"
+        }
+    }
+}
